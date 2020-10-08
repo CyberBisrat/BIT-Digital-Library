@@ -152,37 +152,13 @@ This project has saved me and my friends for many times in college.
 
 ```bash
 
-   ____ _           _   _                   
-  / ___| | __ _  __| | | |_ ___             
- | |  _| |/ _` |/ _` | | __/ _ \            
- | |_| | | (_| | (_| | | || (_) |           
-  \____|_|\__,_|\__,_|  \__\___/            
-  ___  ___  ___                             
- / __|/ _ \/ _ \                            
- \__ \  __/  __/                            
- |___/\___|\___|      _                   _ 
-  _   _  ___  _   _  | |__   ___ _ __ ___| |
- | | | |/ _ \| | | | | '_ \ / _ \ '__/ _ \ |
- | |_| | (_) | |_| | | | | |  __/ | |  __/_|
-  \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)
-  |___/                                     
-
+             ╔══╗ ╔═══╗╔═══╗╔═══╗╔════╗    
+             ║╔╗║ ║╔══╝║╔═╗║║╔═╗║║╔╗╔╗║    
+             ║╚╝╚╗║╚══╗║║ ║║║╚══╗╚╝║║╚╝╔══╗
+             ║╔═╗║║╔══╝║╚═╝║╚══╗║  ║║  ║══╣
+             ║╚═╝║║╚══╗║╔═╗║║╚═╝║ ╔╝╚╗ ╠══║
+             ╚═══╝╚═══╝╚╝ ╚╝╚═══╝ ╚══╝ ╚══╝
+                                           
+                                           
 
 ```
-
-**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
-
-------
-
-```javascript
-
-  if (isAwesome) {
-    // thanks in advance :p
-    starThisRepository();
-  }
-  
-```
-
--------
