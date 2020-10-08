@@ -5,7 +5,7 @@
 				</div>
 				</div>
 
-					<div class="alert alert-info">Welcome to VIT University Library&nbsp;
+					<div class="alert alert-info">Welcome to BIT Digital Library&nbsp;
 					
 					
 					

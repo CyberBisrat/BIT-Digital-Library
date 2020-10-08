@@ -2,7 +2,7 @@
     <footer class="footer">
       <div class="container">
 	  <div class="foot-margin">
-        <p><a>PERIYAR EVR CENTRAL LIBRARY . VIT University . &copy; All Rights Reserved.</a> Designed By <a href="https://github.com/vinitshahdeo/">Vinit Shahdeo</a></p>
+        <p><a>BIT Digital Library . The BEASTS . &copy; All Rights Reserved.</a> Designed By <a href="https://github.com/CyberBisrat/BIT-Digital-Library">BEASTS</a></p>
       </div>
       </div>
     </footer>
