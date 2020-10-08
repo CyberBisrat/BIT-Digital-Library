@@ -1,8 +1,6 @@
 # BIT Digital Library
 #### An interactive web portal for automating various manual processes done by librarian.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
-
 ## Abstract
 
 ![Library Management System](https://img.shields.io/badge/library--management-system-orange.svg?style=flat-square) 
@@ -71,17 +69,11 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Requirements
 
-[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://vinitshahdeo.github.io/Library-Management-System/)
+[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://cyberbisrat.github.io/BIT-Digital-Library/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
-## Installing 
 
-[![wamp](https://img.shields.io/badge/wamp-server-red.svg?style=flat-square)](http://www.wampserver.com/en/) [![xampp](https://img.shields.io/badge/xampp-server-blue.svg?style=flat-square)](https://www.apachefriends.org/download.html) [![mamp](https://img.shields.io/badge/mamp-server-lightgrey.svg?style=flat-square)](https://www.mamp.info/en/)
-
-- Download [WAMP](http://www.wampserver.com/en/)
-- Download [XAMPP](https://www.apachefriends.org/download.html)
-- Download [MAMP](https://www.mamp.info/en/)
 
 ## How to run?
 
@@ -91,6 +83,8 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 4. Run **`localhost/{YOUR FOLDER NAME}`**
 
 
+
+## Developed by
 ```bash
 
              ╔══╗ ╔═══╗╔═══╗╔═══╗╔════╗    
